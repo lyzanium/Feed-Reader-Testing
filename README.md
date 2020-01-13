@@ -1,5 +1,3 @@
-# Feed-Reader-Testing
-
 # RSS Feed
 
 This app shows RSS feeds loaded.
